@@ -1,3 +1,4 @@
+# Location -> /home/mateim/.config/terminator/config
 [global_config]
   ask_before_closing = never
   invert_search = True
